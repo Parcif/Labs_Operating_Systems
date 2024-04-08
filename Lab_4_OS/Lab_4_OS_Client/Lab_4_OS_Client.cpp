@@ -14,9 +14,9 @@ void print_time()
 
 int main()
 {
-	HANDLE hPipe;			// Канал
+	HANDLE hPipe;		// Канал
 	bool fSuccess = false;	// Переменная для проверки корректности операций 
-	DWORD cbIO;				// Количество прочитанных / записанных байт
+	DWORD cbIO;		// Количество прочитанных / записанных байт
 
 	// Подключаемся к каналу
 	hPipe = CreateFile(
