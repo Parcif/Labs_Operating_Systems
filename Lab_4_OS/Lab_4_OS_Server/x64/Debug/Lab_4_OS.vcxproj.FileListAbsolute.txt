@@ -1,0 +1,3 @@
+C:\Users\Artem1\Desktop\Lab_4_OS\x64\Debug\Lab_4_OS_Server.exe
+C:\Users\Artem1\Desktop\Lab_4\Lab_4_OS\x64\Debug\Lab_4_OS_Server.exe
+C:\Users\Artem1\Desktop\Lab_4_OS\Lab_4_OS_Server\x64\Debug\Lab_4_OS_Server.exe
