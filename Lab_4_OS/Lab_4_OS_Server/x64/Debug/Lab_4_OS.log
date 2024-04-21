@@ -1,3 +1,0 @@
-﻿  Lab_4_OS_Server.cpp
-C:\Users\Artem1\Desktop\Lab_4_OS\Lab_4_OS_Server\Lab_4_OS_Server.cpp(298,8): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
-  Lab_4_OS.vcxproj -> C:\Users\Artem1\Desktop\Lab_4_OS\Lab_4_OS_Server\x64\Debug\Lab_4_OS_Server.exe
