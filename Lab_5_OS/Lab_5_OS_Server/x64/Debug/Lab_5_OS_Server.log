@@ -1,0 +1,7 @@
+﻿  Lab_5_OS_Server.cpp
+C:\Users\Artem1\Desktop\4 семестр\Операционные системы\Лабы\Лаба 5 ОС\Lab_5_OS_Server\Lab_5_OS_Server.cpp(37,28): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Artem1\Desktop\4 семестр\Операционные системы\Лабы\Лаба 5 ОС\Lab_5_OS_Server\Lab_5_OS_Server.cpp(41,24): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Artem1\Desktop\4 семестр\Операционные системы\Лабы\Лаба 5 ОС\Lab_5_OS_Server\Lab_5_OS_Server.cpp(214,84): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Artem1\Desktop\4 семестр\Операционные системы\Лабы\Лаба 5 ОС\Lab_5_OS_Server\Lab_5_OS_Server.cpp(364,83): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Artem1\Desktop\4 семестр\Операционные системы\Лабы\Лаба 5 ОС\Lab_5_OS_Server\Lab_5_OS_Server.cpp(46): warning C4715: read_int: значение возвращается не при всех путях выполнения
+  Lab_5_OS_Server.vcxproj -> C:\Users\Artem1\Desktop\4 семестр\Операционные системы\Лабы\Лаба 5 ОС\Lab_5_OS_Server\x64\Debug\Lab_5_OS_Server.exe
